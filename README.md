@@ -1,0 +1,1 @@
+This project demonstrates the complete pipeline of designing and building a modern cloud-based data warehouse using Azure services. It includes data ingestion from PostgreSQL, transformation via SQL, and loading into a star schema structure on Azure Synapse Analytics.
